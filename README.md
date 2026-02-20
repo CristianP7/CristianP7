@@ -96,7 +96,7 @@ const cristian = {
 <table>
   <tr>
     <td align="center" width="50%">
-      🇨🇱 &nbsp; <strong>Español</strong><br/>
+      🇻🇪 &nbsp; <strong>Español</strong><br/>
       <sub>Lengua materna — comunicación técnica y profesional</sub><br/><br/>
       <img src="https://img.shields.io/badge/Nivel-Nativo-2ea44f?style=for-the-badge"/>
     </td>
