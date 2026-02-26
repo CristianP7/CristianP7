@@ -22,7 +22,7 @@ Actualmente me encuentro profundizando en **JavaScript** y avanzando hacia frame
 
 ```javascript
 const cristian = {
-  ubicación: "Santiago, Chile 🇨🇱",
+  ubicación: "Santiago, Chile",
   título: "Software Engineer 🎓",
   rol: "Frontend Developer",
   objetivo: "Fullstack Developer",
