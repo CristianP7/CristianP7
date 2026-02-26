@@ -6,7 +6,7 @@
 
 *Construyo interfaces que no solo se ven bien — se entienden, funcionan y escalan.*
 
-[![GitHub followers](https://img.shields.io/github/followers/CristianP7?style=for-the-badge&logo=github&color=0D1117&labelColor=161B22)](https://github.com/CristianP7)
+![GitHub followers](https://img.shields.io/github/followers/CristianP7?style=for-the-badge)
 [![Profile Views](https://komarev.com/ghpvc/?username=CristianP7&style=for-the-badge&color=0D1117&labelColor=161B22)](https://github.com/CristianP7)
 ![Location](https://img.shields.io/badge/📍%20Santiago%2C%20Chile-0D1117?style=for-the-badge&labelColor=161B22)
 
