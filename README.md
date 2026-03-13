@@ -53,15 +53,6 @@ const cristian = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CristianP7&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
 
 🌐 Languages / Idiomas
 
