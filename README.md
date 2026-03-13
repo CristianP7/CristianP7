@@ -53,18 +53,6 @@ const cristian = {
 
 ---
 
-## 📌 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-|---------|-------------|-------|
-| 🍽️ [**bistro**](https://github.com/CristianP7/bistro) | Página web para un restaurante con experiencia culinaria única | HTML · CSS |
-| 🚌 [**busesfairlie**](https://github.com/CristianP7/busesfairlie) | Sitio informativo para una empresa de transporte | HTML · CSS |
-| ✍️ [**blog-crud**](https://github.com/CristianP7/blog-crud) | App web con sistema CRUD de artículos y gestión de usuarios con roles | HTML · CSS · JS |
-| ☕ [**black-coffee**](https://github.com/CristianP7/black-coffee) | Landing page responsive para cafetería ficticia | HTML · CSS |
-| 📷 [**qr-generator**](https://github.com/CristianP7/qr-generator) | Convierte cualquier contenido a código QR | CSS · JS |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,22 +63,6 @@ const cristian = {
 
 ---
 
-## 🗺️ Roadmap Personal
-
-- [x] HTML & CSS — Fundamentos sólidos
-- [x] Git & GitHub — Flujo de trabajo profesional
-- [x] JavaScript — Base funcional
-- [x] Proyectos CRUD + consumo básico de APIs
-- [x] Tailwind CSS — Utilidades y diseño ágil
-- [x] Sass — CSS escalable y organizado
-- [x] Bootstrap — Componentes y grids responsivos
-- [ ] 🔄 JavaScript avanzado (async, módulos, patrones)
-- [ ] ⚛️ React — Interfaces dinámicas
-- [ ] 🌐 Node.js + Express — Backend
-- [ ] 🗄️ Bases de datos — SQL & NoSQL
-- [ ] 🚀 Fullstack Developer
-
----
 🌐 Languages / Idiomas
 
 <table>
